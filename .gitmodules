@@ -1,0 +1,3 @@
+[submodule "universe_tree"]
+	path = universe_tree
+	url = https://github.com/YairRand/universe_tree.git
